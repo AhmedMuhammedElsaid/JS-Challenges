@@ -1,11 +1,6 @@
-
-
-// const simpleObj = {
-//     name: "Ahmed", age: 28, city: "Nasr City",
-//     status: "Married", hoppies: ['football', 'playstaion', "Chess", "Ping Pong", "Reading",],
-//     date: Date(),
-//     family: { dad: "Muhammed", Mom: "Home", brothers: ["salah"], sisters:["Engy","Eman"] }
-// }
+// write a DeepClone function that can clone any object including 
+// nested objects, arrays, dates, regex, sets, maps, arraybuffers, typed arrays,
+//  and handle circular references.
 
 const complexObj = {
     name: "Ahmed",
