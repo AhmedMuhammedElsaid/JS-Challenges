@@ -3,8 +3,8 @@
 // console.log(sum(1)(2)(3)());  // ?
 // console.log(sum(1, 2)(3, 4)());  // ?
 // console.log(sum(5)());     // ?
-
-
+// Explanation: The function sum should be able to take any number of arguments 
+// in each invocation and return the sum when invoked with no arguments.
 
 
 const sum = (...args) => {
